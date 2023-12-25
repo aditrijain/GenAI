@@ -1,4 +1,6 @@
 # GenAI
+The code here gives a look into the generative AI models mentioned in the presentation.
+
 for link to the dataset of Question Answer model please refer this google drive link:
 https://drive.google.com/file/d/11n3wTzV7M5JhjRjHntegm_OQ-YN5Tsu9/view?usp=drive_link
 
